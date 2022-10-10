@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @lucaslmmanoel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lucaslmmanoel/lucaslmmanoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @lucaslmmanoel from brasilia, brazil!
+- 👀 I’m interested in gamefication of real world, to take better decisions before to start projects
+- 🌱 I’m currently learning and working GIS to create geo inteligencies, and BIM methods and softwares to elaborate games into Unreal Engine and turn it on clouds
+- 💞️ I know how to work with a lot of languages but i like to use python and js as a base of my development!
+- 📫 lucas.worldpsy@icloud.com +55 (61) 9 8339-4739
