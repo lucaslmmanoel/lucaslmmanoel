@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lucaslmmanoel from brasilia, brazil!
+- 👋 Hi, I’m @lucaslmmanoel from luis eduardo magalhães, bahia brazil!
 - 👀 I’m interested in gamefication of real world, to take better decisions before to start projects
 - 🌱 I’m currently learning and working GIS to create geo inteligencies, and BIM methods and softwares to elaborate games into Unreal Engine and turn it on clouds
-- 💞️ I know how to work with a lot of languages but i like to use python and js as a base of my development!
-- 📫 lucas.worldpsy@icloud.com +55 (61) 9 8339-4739
+- 💞️ I know how to work with a lot of languages but i like to use python and js as a base of my development, but i am a owner of some scripts in lua and i have a redm server too!
+- 📫 lucas.worldpsy@gmail.com +55 (61) 9 8339-4739
